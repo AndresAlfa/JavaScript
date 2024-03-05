@@ -1,5 +1,5 @@
 /*primer aplicacin Java*/
 function name(params) {
-    console.log("prueba")
+    console.log("esto es una prueba")
     
 }
